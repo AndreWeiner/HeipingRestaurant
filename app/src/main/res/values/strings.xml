@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Heiping Restaurant</string>
+    <string name="copyright">\u00a9 weinwirtschaft-heiping</string>
+    <string name="open_hours"> Opening hours*</string>
+    <string name="more_info">*Opening hours on holidays may deviate</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday_time">closed</string>
+    <string name="tuesday_time">17:00 &#8211; 23:00</string>
+    <string name="wednesday_time">17:00 &#8211; 23:00</string>
+    <string name="thursday_time">17:00 &#8211; 23:00</string>
+    <string name="friday_time">17:00 &#8211; 24:00</string>
+    <string name="saturday_time">18:00 &#8211; 24:00</string>
+    <string name="sunday_time">closed</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="web">web</string>
+    <string name="share">share</string>
+    <string name="maps">Maps</string>
+</resources>
