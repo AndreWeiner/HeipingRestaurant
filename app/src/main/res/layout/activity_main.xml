@@ -35,18 +35,22 @@
 
         <ImageView
             style="@style/functionButton"
+            android:onClick="makeCall"
             android:src="@drawable/ic_call_black_24dp" />
 
         <ImageView
             style="@style/functionButton"
+            android:onClick="sendEmail"
             android:src="@drawable/ic_email_black_24dp" />
 
         <ImageView
             style="@style/functionButton"
+            android:onClick="shareContent"
             android:src="@drawable/ic_share_black_24dp" />
 
         <ImageView
             style="@style/functionButton"
+            android:onClick="findMaps"
             android:src="@drawable/ic_place_black_24dp" />
     </LinearLayout>
 
